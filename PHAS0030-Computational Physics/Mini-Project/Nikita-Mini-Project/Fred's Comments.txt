@@ -1,0 +1,73 @@
+Comments for Nik's Mini Project
+
+FORMAT OF COMMENTS
+#########################
+- WHERE IN THE PAPER THE COMMENT IS REFERRING TO
+
+THE COMMMENT
+
+THE SENTENCE COPY AND PASTED FROM THE PAPER
+
+#########################
+
+- Introduction, paragraph 3
+
+Maybe this sentence could be written in a clearer way. Not exactly sure what you are trying to say.
+
+For  systems  with  3  or  more  stars,  these  must  be  organised hierarchically,  with  each  level  of  the  hierarchy  being  treated as a two body system.
+
+- Introduction, paragraph 5
+
+The "of" at the end of the sentence I think is a typo. The sentence doesn't really make grammatical sense
+
+Each of these types of system have varying level of stability,and  our  aim  is  to  investigate  how  stable  of  these  systems are.
+
+- Method, paragraph 2
+
+I reckon this is probably fine but maybe use a more technical term then "absorbed".
+
+The gravitational constant was also absorbed into the value ofk1.
+
+- Method, paragraph 2, the equation just below where you introduce the K terms
+
+Are you not meant to have a sigma in the dv_i/dt equation? Since it  is a rewritten version of the set of equations above right?
+
+- Method, paragraph 6
+
+You wrote "equation" before referring to the Equation 6 you were talking about.
+
+A systems resulting stability can then be defined by its stability factor, S compared to the stable inner solar system, calculated as seen in equation Equation 6
+
+- General Comment
+
+Looking at the paper in general it seems like their is no clear formatting of how paragraphs are done. Some have indents some don't. I reckon having a more consistent formatting through out the whole document will help alot. And with all your pages that you have left I would go for an indent format where you a blank line in between paragraphs.
+
+- Figure of 8, paragraph 1
+
+I would refer to the paper as "sourced from a paper which was released in the year 2000."
+
+This  orbital  system  is  the  first  of  the  3  non-hierarchysystems  approached,  sourced  from  a  2000  paper  [1]
+
+- Figure of 8, paragraph 3
+
+Maybe develop more on this point by saying how the definition does this in more detail.
+
+One possible reason for this relatively high level of symmetry could be a result of how we define the value of R_rs.
+
+- Figure of 8, paragraph 3
+
+Instead of the word "chaos" use "chaotic behavior". I don't know if technically the word chaos can really be used in the manner you have used it. I think this way is more technically correct, I believe.
+
+At a value of 5, we can see the orbits start to exhibit some  slight  chaos,  but  at  a  value  of  3  we  see  a  significant breakdown in the symmetry of the system, with the final orbits being quite randomly aligned.
+
+- Figure of 8, paragraph 3
+
+Just after the end of the paragraph their is a random "A". I think it's just a typo.
+
+- Table III
+
+It seems that everywhere where you refer to table III it is called "Table III-C". I'm not sure if I have missed something but maybe this is a typo?
+
+OVERALL COMMENTS
+
+I would say that the paper is really good and you have obviously taken this Mini-project to a very high level of depth and embedded yourself in it. Some typos and formatting here and there but the content itself is very good. Well Done Mate :)
